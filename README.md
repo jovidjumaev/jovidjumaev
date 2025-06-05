@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Jovid Jumaev
 
-I'm a Computer Science major at **Furman University**, currently interning as an **AI/Data Intern** at **Simsys Global** in Seoul, South Korea. I enjoy turning ideas into real-world tech solutions—whether that’s building intelligent systems, analyzing data, or developing interactive applications.
+I'm a Computer Science major at **Furman University**, currently interning as an **AI/Data Intern** at **Simsys Global** in Seoul, South Korea. I enjoy turning ideas into real-world tech solutions, whether that’s building intelligent systems, analyzing data, or developing interactive applications.
 
 ### 🔍 Interests & Focus
 
