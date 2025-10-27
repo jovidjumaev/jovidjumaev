@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Jovid Jumaev
 
-I'm a Senior Computer Science major with a minor in Data Analytics at **Furman University**. My past working experiences include opportunities like interning as an **AI Intern** at **Simsys Global** in Seoul, South Korea, and working as a **Financial Analyst**  in ** Behruz and Partners LLC** in Dushanbe, Tajikistan. I enjoy turning ideas into real-world tech solutions, whether that’s building intelligent systems, analyzing data, or developing interactive applications.
+I'm a Senior Computer Science major with a minor in Data Analytics at **Furman University**. My past working experiences include opportunities like interning as an **AI Intern** at **Simsys Global** in Seoul, South Korea, and working as a **Financial Analyst**  in **Behruz and Partners LLC** in Dushanbe, Tajikistan. I enjoy turning ideas into real-world tech solutions, whether that’s building intelligent systems, analyzing data, or developing interactive applications.
 
 ###  Interests & Focus
 
